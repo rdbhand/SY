@@ -1,0 +1,4 @@
+{
+    "git.enabled": false,
+    "files.autoSave": "onFocusChange"
+}

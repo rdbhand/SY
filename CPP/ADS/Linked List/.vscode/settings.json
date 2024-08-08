@@ -1,0 +1,8 @@
+{
+    "git.enabled": false,
+    "files.associations": {
+        "iomanip": "cpp",
+        "array": "cpp",
+        "string": "cpp"
+    }
+}
